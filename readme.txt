@@ -8,3 +8,5 @@ Stupid
 
 Creating new branch test is quick and simple
 this code is added in dev branch.
+
+fix bug 101
