@@ -1,1 +1,1 @@
-"f&eature2 branch try to modify first line in master branch, now modify in feature branch"
+new first line after merge feature2 into master
